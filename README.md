@@ -1,9 +1,9 @@
 <h1 align="center"><b>Hola , Soy Marcos Ramirez! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img align="center" alt="GIF" src="https://github.com/MarcosRamirezCarri/Readme/blob/main/imgs/marcos.png?raw=true" width="200" height="200" />
+
 
 ## Sobre mí:
-Soy un **Desarrollador Full Stack** especializado en **Javascript** y recién graduado del bootcamp **"Soy Henry"**. Tengo una fuerte afición al desarrollo de aplicaciones web y siempre estoy buscando algo nuevo para aprender. 
+Soy un **Desarrollador Full Stack** especializado en **Javascript** y recién graduado del bootcamp **"Soy Henry"**. <img align="right" alt="GIF" src="https://github.com/MarcosRamirezCarri/Readme/blob/main/imgs/marcos2.png?raw=true" width="200" height="200" /> Tengo una fuerte afición al desarrollo de aplicaciones web y siempre estoy buscando algo nuevo para aprender. 
 
 Simepre fui tranquilo y metódico por naturaleza, me gusta estar en busca de nuevos conocimientos y soluciones para diferentes probelmas. Me gusta desenvolvelrme en grupos de varias personas, ya que cuento con una buena comunicación al momento de estar en un equipo.
 
