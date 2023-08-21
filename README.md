@@ -63,8 +63,11 @@ Y otras más...
 ## Datos de contacto:
 Redes que uso diariamente:
 
+Whatsapp: 3434701918
+
+E-Mail: gellollo@outlook.com
+
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/tatoclemente)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/tatoclemente/)
-Whatsapp: 3434701918
-E-Mail: gellollo@outlook.com
+
 
