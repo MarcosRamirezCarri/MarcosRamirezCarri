@@ -1,5 +1,7 @@
 <h1 align="center"><b>Hola , Soy Marcos Ramirez! </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+<img align="center" alt="GIF" src="https://github.com/MarcosRamirezCarri/Readme/blob/main/imgs/marcos.png?raw=true" width="200" height="200" />
+
 ## Sobre mí:
 Soy un **Desarrollador Full Stack** especializado en **Javascript** y recién graduado del bootcamp **"Soy Henry"**. Tengo una fuerte afición al desarrollo de aplicaciones web y siempre estoy buscando algo nuevo para aprender. 
 
@@ -29,7 +31,7 @@ Estoy dispuesto para asumir nuevos proyectos y seguír conociendo algo más de e
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-**Henry's Dogs** - Proyecto individual del bootcamp SoyHenry. <img align="right" alt="GIF" src="blob:https://web.whatsapp.com/2e9243e8-4495-4c8d-8dd8-69a2d7b889ee" width="200" />Es un aplicación web Full Stack de perros, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de Perros (DogsApi), fron-end con React.js y Redux. 
+**Henry's Dogs** - Proyecto individual del bootcamp SoyHenry. <img align="right" alt="GIF" src="https://github.com/MarcosRamirezCarri/Readme/blob/main/imgs/perritos.png?raw=true" width="200" />Es un aplicación web Full Stack de perros, base de datos con postgreSQL y sequelize, back-end con Node.js y Express, consumos de API externa de Perros (DogsApi), fron-end con React.js y Redux. 
 
 
 ####  💻 Deploy: [Henry's Dogs](https://proyecto-individual-dogs-pi.vercel.app/)
