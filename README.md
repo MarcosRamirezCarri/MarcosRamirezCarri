@@ -69,7 +69,7 @@ Whatsapp: 3434701918
 
 E-Mail: gellollo@outlook.com
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/tatoclemente)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&labelColor=101010)](https://linkedin.com/in/tatoclemente/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/MarcosRamirezCarri)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-nicolas-ramirez-carrivali-b8bb77253/)
 
 
