@@ -3,9 +3,11 @@
 
 
 ## Sobre mí:
-Soy un **Desarrollador Full Stack** especializado en **Javascript** y recién graduado del bootcamp **"Soy Henry"**. <img align="right" alt="GIF" src="https://github.com/MarcosRamirezCarri/Readme/blob/main/imgs/marcos2.png?raw=true" width="200" height="200" /> Tengo una fuerte afición al desarrollo de aplicaciones web y siempre estoy buscando algo nuevo para aprender. 
+Soy un **Desarrollador Full Stack** especializado en **Javascript** y recién graduado del bootcamp **"Soy Henry"**. <img align="right" alt="GIF" src="https://github.com/MarcosRamirezCarri/Readme/blob/main/imgs/marcos2.png?raw=true" width="200" height="200" /> 
 
-Simepre fui tranquilo y metódico por naturaleza, me gusta estar en busca de nuevos conocimientos y soluciones para diferentes probelmas. Me gusta desenvolvelrme en grupos de varias personas, ya que cuento con una buena comunicación al momento de estar en un equipo.
+Tengo una fuerte afición al desarrollo de aplicaciones web y siempre estoy buscando algo nuevo para aprender. 
+
+Siempre fui tranquilo y metódico por naturaleza, me gusta estar en busca de nuevos conocimientos y soluciones para diferentes probelmas. Puedo desenvolvelrme muy bien en grupos de varias personas, ya que cuento con una buena comunicación al momento de estar en un equipo.
 
 Estoy dispuesto para asumir nuevos proyectos y seguír conociendo algo más de este mundo. 
 ¡Todo enfocado a las tecnologías innovadoras para poder seguir avanzando como desarrollador!
@@ -18,6 +20,8 @@ Estoy dispuesto para asumir nuevos proyectos y seguír conociendo algo más de e
 
 ## Proyectos:
 #### Aquí hay algunos proyectos en los que he estado trabajando:
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 **El Festín** - Proyecto final (grupal) del bootcamp <img align="right" alt="GIF" src="https://github.com/tatoclemente/tatoclemente/blob/main/images/el-festin.png?raw=true" width="200" />SoyHenry. Es un aplicación web Full Stack para un restaurantre, dónde darle a sus clientes una experiencia muy familiar y agradable a la hora de comprar desde casa o reservar una mesa. 
    
@@ -50,6 +54,7 @@ Estoy dispuesto para asumir nuevos proyectos y seguír conociendo algo más de e
  [![FrontEnd](https://img.shields.io/badge/FrontEnd-0A66C2?logo=GitHub&logoColor=white)](https://github.com/MarcosRamirezCarri/RickAndMortyApp/tree/main/Client/rick_and_morty)
  [![BackEnd](https://img.shields.io/badge/BackEnd-181717?logo=GitHub&logoColor=white)](https://github.com/MarcosRamirezCarri/RickAndMortyApp/tree/main/Server)
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 
 ## Tecnologías:
