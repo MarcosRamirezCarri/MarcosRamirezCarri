@@ -3,7 +3,7 @@
 
 
 ## Sobre mí:
-Soy un **Desarrollador Full Stack** especializado en **Javascript** y recién graduado del bootcamp **"Soy Henry"**. <img align="right" alt="GIF" src="https://github.com/MarcosRamirezCarri/Readme/blob/main/imgs/marcos2.png?raw=true" width="200" height="200" /> 
+Soy un **Desarrollador Full Stack** especializado en **Javascript** y recién graduado del bootcamp **"Soy Henry"**.
 
 Tengo una fuerte afición al desarrollo de aplicaciones web y siempre estoy buscando algo nuevo para aprender. 
 
