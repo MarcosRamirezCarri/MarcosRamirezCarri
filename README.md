@@ -73,7 +73,7 @@ Whatsapp: +54 9 343470-1918
 
 E-Mail: gellollo@outlook.com
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-nicolas-ramirez-carrivali-b8bb77253/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-764ABC?logo=LinkedIn&logoColor=white&labelColor=101010)](https://t.ly/z6WTX)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=GitHub&logoColor=white&labelColor=101010)](https://github.com/MarcosRamirezCarri)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=LinkedIn&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/marcos-nicolas-ramirez-carrivali-b8bb77253/)
 
